@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Consultas</string>
+    <string name="adicionarmedico">Adicionar Médicos</string>
+    <string name="adicionarPaciente">Adicionar Pacientes</string>
+    <string name="adicionarConsulta">Adicionar Consultas</string>
+    <string name="editar_medico">Editar Médicos</string>
+    <string name="editar_paciente">Editar Paciente</string>
+    <string name="editar_consulta">Editar Consulta</string>
+    <string name="listarmedico">Listar Médicos</string>
+    <string name="listarpaciente">Listar Pacientes</string>
+    <string name="listarconsulta">Listar Consultas</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="listar">Listar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nome">Nome*</string>
+    <string name="CRM">CRM*</string>
+    <string name="paciente_Id">Id do paciente*</string>
+    <string name="medico_id">Id do médico*</string>
+    <string name="data_hora_inicio">Data e hora de inicio*</string>
+    <string name="data_hora_fim">Data e hora do fim*</string>
+    <string name="observacao">Observação*</string>
+    <string name="grp_sanquinio">grp_sanguineo*</string>
+    <string name="Logradouro">Logradouro*</string>
+    <string name="Numero">Número*</string>
+    <string name="cidade">Cidade*</string>
+    <string name="UF">UF*</string>
+    <string name="celular">Celular*</string>
+    <string name="fixo">Fixo*</string>
+    <string name="campos_obrigatorios">*Campos Obrigatórios</string>
+    <string name="consultas">Gerenciamento de Consultas</string>
+</resources>
